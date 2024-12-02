@@ -1,4 +1,6 @@
 print("fin del proceso - editado version 2, lunes 02 12:37")
+print(f"Fin del proceso para {{ usuario }}")
+
 x = 5
 while x > 0:
     x -= 1  # Decrementar x primero
