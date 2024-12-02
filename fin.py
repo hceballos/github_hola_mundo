@@ -1,4 +1,4 @@
-print("fin del proceso - editado version 2, lunes 02")
+print("fin del proceso - editado version 2, lunes 02 12:37")
 x = 5
 while x > 0:
 x -= 1
