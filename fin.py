@@ -6,3 +6,4 @@ while x > 0:
     x -= 1  # Decrementar x primero
     print(x)  # Imprimir el valor de x después de restarle
     print('¡Pum!')  # Imprimir '¡Pum!' después
+print("SE TERMINO EL PERIODO GRATIS")
