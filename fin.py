@@ -1,4 +1,4 @@
-print("fin del proceso - editado version 2, lunes 02 12:37")
+print("fin del proceso - editado version 2, martes 03 21:30")
 print(f"Fin del proceso para {{ usuario }}")
 
 x = 5
